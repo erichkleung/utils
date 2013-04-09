@@ -35,10 +35,8 @@
     pager = less -FRSX
     whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
 
-[reviewboard]
-	url = http://reviews.fivestarscard.com
 [user]
 	name = Eric Leung
-	email = eric.leung@fivestarscard.com
+	email = ericleung@berkeley.edu
 [credential]
 	helper = cache
